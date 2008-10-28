@@ -1,5 +1,5 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
-sdesc: "Xorg cursor fonts"
-ldesc: "Xorg cursor fonts"
+requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+sdesc: "X.Org cursor fonts"
+ldesc: "X.Org cursor fonts"
 
